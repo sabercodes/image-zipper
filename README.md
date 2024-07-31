@@ -21,6 +21,6 @@ The Image Zipper script automates the process of validating and preparing image 
 ## Installation
 
 1. Clone the repository:
-   
-   git clone https://github.com/sabercodes/image-zipper.git
+   ```sh
+   git clone https://github.com/yourusername/image-zipper.git
    cd image-zipper
