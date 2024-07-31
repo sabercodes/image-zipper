@@ -24,6 +24,3 @@ The Image Zipper script automates the process of validating and preparing image 
    
    git clone https://github.com/sabercodes/image-zipper.git
    cd image-zipper
-
-3. Install the required libraries:
-   pip install pillow
